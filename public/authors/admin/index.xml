@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Steven Kleinegesse</title>
+    <link>https://stevenkleinegesse.github.io/authors/admin/</link>
+    <description>Recent content in admin on Steven Kleinegesse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://stevenkleinegesse.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://stevenkleinegesse.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/author/admin/</guid>
+      <description>I am a PhD student at the Centre of Doctoral Training (CDT) in Data Science at the University of Edinburgh. My research interests include Bayesian experimental design, likelihood-free inference and Bayesian optimisation. Prior to being a PhD student, I graduated with a Master of Science in Physics from Imperial College London, where I specialised in Astrophysics and Particle Physics.</description>
+    </item>
+    
+  </channel>
+</rss>

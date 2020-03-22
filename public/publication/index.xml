@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Steven Kleinegesse</title>
+    <link>https://stevenkleinegesse.github.io/publication/</link>
+    <description>Recent content in Publications on Steven Kleinegesse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevenkleinegesse.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Experimental Design for Implicit Models by Mutual Information</title>
+      <link>https://stevenkleinegesse.github.io/publication/bayesian-experimental-design-for-implicit-models-by-mutual-information/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/bayesian-experimental-design-for-implicit-models-by-mutual-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Bayesian Experimental Design for Implicit Models</title>
+      <link>https://stevenkleinegesse.github.io/publication/efficient-bayesian-experimental-design-for-implicit-models/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/efficient-bayesian-experimental-design-for-implicit-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulse Shape Discrimination and Exploration of Scintillation Signals Using Convolutional Neural Networks</title>
+      <link>https://stevenkleinegesse.github.io/publication/pulse-shape-discrimination-and-exploration-of-scintillation-signals-using-convolutional-neural-networks/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/pulse-shape-discrimination-and-exploration-of-scintillation-signals-using-convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Emotions in Video Using Multimodal DNN Feature Fusion</title>
+      <link>https://stevenkleinegesse.github.io/publication/recognizing-emotions-in-video-using-multimodal-dnn-feature-fusion/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/recognizing-emotions-in-video-using-multimodal-dnn-feature-fusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

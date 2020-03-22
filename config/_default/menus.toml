@@ -19,10 +19,10 @@
 #  url = "#projects"
 #  weight = 30
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 40
 
 #[[main]]
 #  name = "Tutorials"
@@ -33,7 +33,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "files/cv_public.pdf"
+  url = "files/resume.pdf"
   weight = 60
 
 [[main]]

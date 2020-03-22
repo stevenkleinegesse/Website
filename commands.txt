@@ -1,0 +1,6 @@
+Build the local static website with
+
+	hugo server
+
+which is available at localhost:1313.
+
