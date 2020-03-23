@@ -4,3 +4,16 @@ Build the local static website with
 
 which is available at localhost:1313.
 
+Create a new publication with
+
+	hugo new --kind publication publication/Publication-Name-With-Hyphens-Between-Letters
+
+Once the information in "publication/Publication-Name-With-Hyphens-Between-Letters/index.md" is edited, deploy the website with
+
+./deploy.sh "Commit Message"
+
+Afterwards, don't forget to stage and push commits to the Website repo as well with
+
+git add .
+git commit -m "Commit Message"
+git push origin master
