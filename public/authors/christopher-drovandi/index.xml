@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Drovandi on Steven Kleinegesse</title>
+    <link>https://stevenkleinegesse.github.io/authors/christopher-drovandi/</link>
+    <description>Recent content in Christopher Drovandi on Steven Kleinegesse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevenkleinegesse.github.io/authors/christopher-drovandi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sequential Bayesian Experimental Design for Implicit Models via Mutual Information</title>
+      <link>https://stevenkleinegesse.github.io/publication/sequential-bayesian-experimental-design-for-implicit-models-via-mutual-information/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/sequential-bayesian-experimental-design-for-implicit-models-via-mutual-information/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

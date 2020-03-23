@@ -3,7 +3,7 @@ title = "Sequential Bayesian Experimental Design for Implicit Models via Mutual 
 date = 2020-03-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Steven Kleinegesse, Christopher Drovandi, Michael U. Gutmann]
+authors = ["Steven Kleinegesse", "Christopher Drovandi", "Michael U. Gutmann"]
 
 # Publication type.
 # Legend:
