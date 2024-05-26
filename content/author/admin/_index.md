@@ -9,24 +9,26 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student in Data Science"
+role = "Lead Research Scientist in Machine Learning"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Edinburgh", url = "" } ]
+organizations = [ { name = "causaLens", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Bayesian experimental design, likelihood-free inference and Bayesian Optimisation."
+bio = "I develop novel machine learning solutions that understand cause and effect."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Machine Learning",
+  "Articifial Intelligence",
   "Data Science",
+  "Causality",
+  "Generative AI",
   "Probabilistic Modelling",
-  "Approximate Inference",
-  "Bayesian Experimental Design"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,6 +36,11 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "PhD in Machine Learning"
+  institution = "University of Edinburgh"
+  year = 2022
+
 [[education.courses]]
   course = "MScR in Data Science"
   institution = "University of Edinburgh"
@@ -88,4 +95,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a PhD student at the Centre of Doctoral Training (CDT) in Data Science at the University of Edinburgh. My research interests include Bayesian experimental design, likelihood-free inference and Bayesian optimisation. Prior to being a PhD student, I graduated with a Master of Science in Physics from Imperial College London, where I specialised in Astrophysics and Particle Physics.
+I'm a Lead Research Scientist in Machine Learning at causaLens, a London-based deeptech start-up. I develop novel machine learning solutions that understand cause and effect. I care about building customer-centric products that scale well.
+
+I hold a PhD in Machine Learning from the University of Edinburgh. My thesis focussed on developing machine learning solutions that can tell scientists which experiments to perform in order to maximize information gain and minimize costs. Specifically, the relevant topics included Machine Learning, Bayesian Experimental Design, Likelihood-Free Inference, and Bayesian Optimisation. Prior to being a PhD student, I graduated with a Master of Science in Physics from Imperial College London, where I specialised in Astrophysics and Particle Physics.
